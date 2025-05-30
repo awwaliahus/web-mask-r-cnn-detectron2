@@ -1,0 +1,11 @@
+torch==2.0.0 
+torchvision==0.15.0
+numpy
+opencv-python
+flask
+mysql-connector-python
+cython
+pillow piexif
+#harus sudah compatible dengan C++
+#install atau upgrade pytorch
+#masuk folder detectron2, and running pip install -e .
